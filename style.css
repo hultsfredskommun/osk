@@ -26,7 +26,7 @@ h3,
 #nav .parent > .current-cat > a,
 .ui-tabs li.ui-tabs-selected a,
 .ui-tabs li.ui-state-default a {
-	color: #7cbeee;
+	color: #06435A;
 }
 
 /* main color */
@@ -53,7 +53,7 @@ h3,
 #contact-side-tab a.toggle-tab,
 .ui-tabs li.ui-state-default:hover,
 .ui-tabs li.ui-state-default:focus {
-	background-color: #7cbeee; /* deep blue */
+	background-color: #06435A; /* deep blue */
 }
 
 
@@ -64,13 +64,13 @@ h3,
 .ui-tabs li.ui-state-default a:focus,
 #menu ul.main-sub-menu li a,
 #menu ul.sub-menu li a {
-	border-bottom: 4px solid #7cbeee;
+	border-bottom: 4px solid #06435A;
 }
 #nav  .children {
-	border-left: 4px solid #7cbeee;
+	border-left: 4px solid #06435A;
 }
 #news .newline {
-	border-bottom: 1px solid #7cbeee; /* deep blue */
+	border-bottom: 1px solid #06435A; /* deep blue */
 }
  
  
@@ -116,12 +116,12 @@ h3,
 	#menu li,
 	#menu {
 	
-		background: #7cbeee;
+		background: #06435A;
 	}
 	#menu ul.sub-menu li a,
 	#menu ul li a {
-		border-top: 1px solid #7cbeee;
-		border-bottom: 1px solid #7cbeee;
+		border-top: 1px solid #06435A;
+		border-bottom: 1px solid #06435A;
 	}
 
 }
