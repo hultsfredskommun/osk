@@ -19,7 +19,7 @@ Template: hultsfredskommun
 
 /* main color */
 .main-background, .top-menu-wrapper, .main-menu a:hover, .main-menu:hover a:hover, .main-menu .current-category-ancestor a, .main-menu .current-menu-item a, .footer2-wrapper, .footer2-wrapper a, .footer-image-wrapper {
-	background-color: #06435A; 
+	_ackground-color: #06435A; 
 }
 
 
@@ -28,10 +28,19 @@ Template: hultsfredskommun
 .ui-tabs li.ui-state-active a,
 .ui-tabs li.ui-state-default a:hover,
 .ui-tabs li.ui-state-default a:focus {
-	border-bottom: 1px solid #06435A;
+	_order-bottom: 1px solid #06435A;
 }
 
-
+/* complement color */
+.complement-background, .slideshow .slide .caption-area .transparent {
+	background: #7cbeee;
+}
+.article-wrapper .footer-wrapper {
+	border-left: 4px solid #7cbeee;
+}
+.complement-text, .complement-italic-text, .contact-wrapper .content, .time, .article-wrapper .footer-wrapper {
+	color: #7cbeee;
+}
  
  
  /* =Responsive Structure
