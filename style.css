@@ -33,13 +33,13 @@ Template: hultsfredskommun
 
 /* complement color */
 .complement-background, .slideshow .slide .caption-area .transparent {
-	background: #7cbeee;
+	background: #7cbeee!important;
 }
 .article-wrapper .footer-wrapper {
-	border-left: 4px solid #7cbeee;
+	border-left: 4px solid #7cbeee!important;
 }
 .complement-text, .complement-italic-text, .contact-wrapper .content, .time, .article-wrapper .footer-wrapper {
-	color: #7cbeee;
+	color: #7cbeee!important;
 }
  
  
