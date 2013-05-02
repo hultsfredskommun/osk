@@ -15,7 +15,7 @@ Template: hultsfredskommun
 @import url("../hultsfredskommun/style.css");
 
 .small-words {
-	display: none;
+	display: none!important;
 }
 .main-sub-menu {
 	font-size: 15px;
