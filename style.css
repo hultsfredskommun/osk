@@ -45,7 +45,7 @@ Template: hultsfredskommun
 }
 .logo2 a
 {
-	display: block;
+	margin-left: 10px;
 }
 
 /* driftstörning */
