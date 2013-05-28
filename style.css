@@ -17,16 +17,20 @@ Template: hultsfredskommun
 .small-words {
 	display: none!important;
 }
-.main-sub-menu {
-	font-size: 15px;
+.main-sub-menu a {
+/*	font-size: 15px;
 	font-size: 0.9375rem;
-	line-height: 1.607145;
+	line-height: 1.607145;*/
 /*	font-size: 14px;
 	font-size: 0.875rem;
 	line-height: 1.71429; */
 /*  font-size: 16px!important;
 	font-size: 1rem!important;
 	line-height: 1.5!important; */
+	font-size: 17px;
+	font-size: 1.13333rem;
+	line-height: 1.41176;
+
 }
 
 /* main color */
@@ -35,6 +39,14 @@ Template: hultsfredskommun
 }
 
 
+.logo2 
+{
+	text-align: right;
+}
+.logo2 a
+{
+	display: block;
+}
 
 /* BORDER COLORS */
 .ui-tabs li.ui-state-active a,
@@ -45,7 +57,7 @@ Template: hultsfredskommun
 
 /* complement color */
 .complement-background, .slideshow .slide .caption-area .transparent {
-	background: #7cbeee!important;
+	background: #666!important;
 }
 .article-wrapper .footer-wrapper {
 	border-left: 4px solid #7cbeee!important;
