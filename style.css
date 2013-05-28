@@ -48,6 +48,13 @@ Template: hultsfredskommun
 	display: block;
 }
 
+/* driftstörning */
+.widget_hk_wp_feed_rss_widget {
+	padding: 12px;
+	border-radius: 3px;
+	border: 4px solid #7cbeee;
+	box-shadow: 1px 1px 6px #666;
+}
 /* BORDER COLORS */
 .ui-tabs li.ui-state-active a,
 .ui-tabs li.ui-state-default a:hover,
