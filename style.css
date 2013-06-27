@@ -47,11 +47,12 @@ Template: hultsfredskommun
 
 /* driftstörning */
 .widget_hk_wp_feed_rss_widget {
-	padding: 12px;
-	border-radius: 3px;
-	border: 2px solid #7cbeee;
 	box-shadow: 1px 1px 6px #666;
 }
+.widget_hk_wp_feed_rss_widget .time {
+	color: white;
+}
+
 /* BORDER COLORS */
 .ui-tabs li.ui-state-active a,
 .ui-tabs li.ui-state-default a:hover,
