@@ -50,7 +50,7 @@ Template: hultsfredskommun
 	box-shadow: 1px 1px 6px #666;
 }
 .widget_hk_wp_feed_rss_widget .time {
-	color: white;
+	color: white!important;
 }
 
 /* BORDER COLORS */
