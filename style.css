@@ -27,7 +27,8 @@ Template: hultsfredskommun
 	font-size: 17px;
 	font-size: 1.13333rem;
 	line-height: 1.41176;
-
+	padding-right: 11px!important;
+	padding-left: 11px!important;
 }
 
 /* main color */
