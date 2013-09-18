@@ -36,7 +36,9 @@ Template: hultsfredskommun
 	_ackground-color: #06435A; 
 }
 
-
+.slideshow-contact-puff-area .contact-icon {
+	display: none;
+}
 .logo2 
 {
 	text-align: right;
