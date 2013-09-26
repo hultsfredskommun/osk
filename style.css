@@ -49,9 +49,6 @@ Template: hultsfredskommun
 }
 
 /* driftstörning */
-.widget_hk_wp_feed_rss_widget {
-	box-shadow: 1px 1px 6px #666;
-}
 .widget_hk_wp_feed_rss_widget .time {
 	color: white!important;
 }
@@ -64,7 +61,7 @@ Template: hultsfredskommun
 }
 
 /* complement color */
-.complement-background, .slideshow .slide .caption-area .transparent {
+.complement-background {
 	background: #7cbeee!important;
 }
 .article-wrapper .footer-wrapper {
