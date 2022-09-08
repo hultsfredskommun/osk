@@ -1,128 +1,84 @@
 /*
 Theme Name: &Ouml;SK (child of Hultsfreds kommun theme)
-Theme URI: 
+Theme URI:
 Author: the Hultsfred team
 Author URI: http://wordpress.org/
 Description: Child of Hultsfredskommun theme
 Version: 0.4
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: 
+Tags:
 Text Domain: hultsfredskommun
 Template: hultsfredskommun
 */
 
-@import url("../hultsfredskommun/style.css?version=1.4");
-
 .main-sub-menu a {
-/*	font-size: 15px;
+	/*	font-size: 15px;
 	font-size: 0.9375rem;
 	line-height: 1.607145;*/
-/*	font-size: 14px;
+	/*	font-size: 14px;
 	font-size: 0.875rem;
 	line-height: 1.71429; */
-/*  font-size: 16px!important;
+	/*  font-size: 16px!important;
 	font-size: 1rem!important;
 	line-height: 1.5!important; */
 	font-size: 17px;
 	font-size: 1.13333rem;
 	line-height: 1.41176;
-	padding-right: 11px!important;
-	padding-left: 11px!important;
+	padding-right: 11px !important;
+	padding-left: 11px !important;
 }
 
 /* main color */
-.main-background, .top-menu-wrapper, .main-menu a:hover, .main-menu:hover a:hover, .main-menu .current-category-ancestor a, .main-menu .current-menu-item a, .footer2-wrapper, .footer2-wrapper a, .footer-image-wrapper {
-	_ackground-color: #06435A; 
-}
+/*.main-background,
+.top-menu-wrapper,
+.main-menu a:hover,
+.main-menu:hover a:hover,
+.main-menu .current-category-ancestor a,
+.main-menu .current-menu-item a,
+.footer2-wrapper,
+.footer2-wrapper a,
+.footer-image-wrapper {
+	background-color: #06435A;
+}*/
 
 .slideshow-contact-puff-area .contact-icon {
 	display: none;
 }
-.logo2 
-{
+
+.logo2 {
 	text-align: right;
 }
-.logo2 a
-{
+
+.logo2 a {
 	margin-left: 10px;
 }
 
 /* driftstörning */
 .widget_hk_wp_feed_rss_widget .time {
-	color: white!important;
+	color: white !important;
 }
 
 /* BORDER COLORS */
-.ui-tabs li.ui-state-active a,
+/*.ui-tabs li.ui-state-active a,
 .ui-tabs li.ui-state-default a:hover,
 .ui-tabs li.ui-state-default a:focus {
-	_order-bottom: 1px solid #06435A;
-}
+	border-bottom: 1px solid #06435A;
+}*/
 
 /* complement color */
 .complement-background {
-	background: #7cbeee!important;
+	background: #7cbeee !important;
 }
+
 .slideshow-contact-puff-area .complement-italic-text {
-	color: #fff!important;
-}
-.complement-text, .complement-italic-text, .contact-wrapper .content, .time, .article-wrapper .footer-wrapper {
-	color: #666!important;
-}
- 
- 
- /* =Responsive Structure
------------------------------------------------ */
-
-/* LOW */
-@media (max-height: 1000px) {
-
+	color: #fff !important;
 }
 
-
-/* LARGE */
-@media (max-width: 1000px) {
-
-}
-
-/* BETWEEN MEDIUM AND LARGE */
-
-@media (max-width: 900px) {
-
-}
-
-
-/* MEDIUM */
-
-@media (max-width: 800px) {
-
-}
-
-
-/* BETWEEN SMALL AND MEDIUM */
-
-@media (max-width: 750px) {
-
-}
-
-
-/* SMALL */
-
-@media (max-width: 650px) {
-
-}
-
-
-/* MOBIL */
-
-@media (max-width: 480px) {
-
-}
-
-
-
-
-@media print {
-
+.complement-text,
+.complement-italic-text,
+.contact-wrapper .content,
+.time,
+.article-wrapper .footer-wrapper {
+	color: #666 !important;
 }
